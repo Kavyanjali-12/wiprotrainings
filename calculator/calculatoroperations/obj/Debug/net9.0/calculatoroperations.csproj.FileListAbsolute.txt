@@ -1,0 +1,14 @@
+C:\teju\wiprotraining\calculator\calculatoroperations\bin\Debug\net9.0\calculatoroperations.exe
+C:\teju\wiprotraining\calculator\calculatoroperations\bin\Debug\net9.0\calculatoroperations.deps.json
+C:\teju\wiprotraining\calculator\calculatoroperations\bin\Debug\net9.0\calculatoroperations.runtimeconfig.json
+C:\teju\wiprotraining\calculator\calculatoroperations\bin\Debug\net9.0\calculatoroperations.dll
+C:\teju\wiprotraining\calculator\calculatoroperations\bin\Debug\net9.0\calculatoroperations.pdb
+C:\teju\wiprotraining\calculator\calculatoroperations\obj\Debug\net9.0\calculatoroperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\teju\wiprotraining\calculator\calculatoroperations\obj\Debug\net9.0\calculatoroperations.AssemblyInfoInputs.cache
+C:\teju\wiprotraining\calculator\calculatoroperations\obj\Debug\net9.0\calculatoroperations.AssemblyInfo.cs
+C:\teju\wiprotraining\calculator\calculatoroperations\obj\Debug\net9.0\calculatoroperations.csproj.CoreCompileInputs.cache
+C:\teju\wiprotraining\calculator\calculatoroperations\obj\Debug\net9.0\calculatoroperations.dll
+C:\teju\wiprotraining\calculator\calculatoroperations\obj\Debug\net9.0\refint\calculatoroperations.dll
+C:\teju\wiprotraining\calculator\calculatoroperations\obj\Debug\net9.0\calculatoroperations.pdb
+C:\teju\wiprotraining\calculator\calculatoroperations\obj\Debug\net9.0\calculatoroperations.genruntimeconfig.cache
+C:\teju\wiprotraining\calculator\calculatoroperations\obj\Debug\net9.0\ref\calculatoroperations.dll
