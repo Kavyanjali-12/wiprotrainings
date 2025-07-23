@@ -1,17 +1,17 @@
-﻿using system;
+﻿using System;
 
-naming CalculatorOperations;
+namespace CalculatorOperations
 
 {
     internal class Program
-{
-    static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to the C sharp");
-        Console.ReadKey();
+    static void Main(string[] args)
+        {
+            Console.WriteLine("Welcome to the C sharp");
+            Console.ReadKey();
 
 
-    }
+        }
         
         
     }

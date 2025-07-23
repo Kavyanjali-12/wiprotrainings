@@ -1,0 +1,15 @@
+C:\teju\wiprotraining\day3\string\bin\Debug\net9.0\string.exe
+C:\teju\wiprotraining\day3\string\bin\Debug\net9.0\string.deps.json
+C:\teju\wiprotraining\day3\string\bin\Debug\net9.0\string.runtimeconfig.json
+C:\teju\wiprotraining\day3\string\bin\Debug\net9.0\string.dll
+C:\teju\wiprotraining\day3\string\bin\Debug\net9.0\string.pdb
+C:\teju\wiprotraining\day3\string\obj\Debug\net9.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\teju\wiprotraining\day3\string\obj\Debug\net9.0\string.AssemblyInfoInputs.cache
+C:\teju\wiprotraining\day3\string\obj\Debug\net9.0\string.AssemblyInfo.cs
+C:\teju\wiprotraining\day3\string\obj\Debug\net9.0\string.csproj.CoreCompileInputs.cache
+C:\teju\wiprotraining\day3\string\obj\Debug\net9.0\string.sourcelink.json
+C:\teju\wiprotraining\day3\string\obj\Debug\net9.0\string.dll
+C:\teju\wiprotraining\day3\string\obj\Debug\net9.0\refint\string.dll
+C:\teju\wiprotraining\day3\string\obj\Debug\net9.0\string.pdb
+C:\teju\wiprotraining\day3\string\obj\Debug\net9.0\string.genruntimeconfig.cache
+C:\teju\wiprotraining\day3\string\obj\Debug\net9.0\ref\string.dll

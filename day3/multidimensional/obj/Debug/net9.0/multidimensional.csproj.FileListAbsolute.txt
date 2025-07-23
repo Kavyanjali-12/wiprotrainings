@@ -1,0 +1,15 @@
+C:\teju\wiprotraining\day3\multidimensional\bin\Debug\net9.0\multidimensional.exe
+C:\teju\wiprotraining\day3\multidimensional\bin\Debug\net9.0\multidimensional.deps.json
+C:\teju\wiprotraining\day3\multidimensional\bin\Debug\net9.0\multidimensional.runtimeconfig.json
+C:\teju\wiprotraining\day3\multidimensional\bin\Debug\net9.0\multidimensional.dll
+C:\teju\wiprotraining\day3\multidimensional\bin\Debug\net9.0\multidimensional.pdb
+C:\teju\wiprotraining\day3\multidimensional\obj\Debug\net9.0\multidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\teju\wiprotraining\day3\multidimensional\obj\Debug\net9.0\multidimensional.AssemblyInfoInputs.cache
+C:\teju\wiprotraining\day3\multidimensional\obj\Debug\net9.0\multidimensional.AssemblyInfo.cs
+C:\teju\wiprotraining\day3\multidimensional\obj\Debug\net9.0\multidimensional.csproj.CoreCompileInputs.cache
+C:\teju\wiprotraining\day3\multidimensional\obj\Debug\net9.0\multidimensional.sourcelink.json
+C:\teju\wiprotraining\day3\multidimensional\obj\Debug\net9.0\multidimensional.dll
+C:\teju\wiprotraining\day3\multidimensional\obj\Debug\net9.0\refint\multidimensional.dll
+C:\teju\wiprotraining\day3\multidimensional\obj\Debug\net9.0\multidimensional.pdb
+C:\teju\wiprotraining\day3\multidimensional\obj\Debug\net9.0\multidimensional.genruntimeconfig.cache
+C:\teju\wiprotraining\day3\multidimensional\obj\Debug\net9.0\ref\multidimensional.dll
