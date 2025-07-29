@@ -1,0 +1,15 @@
+C:\teju\wiprotraining\day6\bin\Debug\net9.0\day6.exe
+C:\teju\wiprotraining\day6\bin\Debug\net9.0\day6.deps.json
+C:\teju\wiprotraining\day6\bin\Debug\net9.0\day6.runtimeconfig.json
+C:\teju\wiprotraining\day6\bin\Debug\net9.0\day6.dll
+C:\teju\wiprotraining\day6\bin\Debug\net9.0\day6.pdb
+C:\teju\wiprotraining\day6\obj\Debug\net9.0\day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\teju\wiprotraining\day6\obj\Debug\net9.0\day6.AssemblyInfoInputs.cache
+C:\teju\wiprotraining\day6\obj\Debug\net9.0\day6.AssemblyInfo.cs
+C:\teju\wiprotraining\day6\obj\Debug\net9.0\day6.csproj.CoreCompileInputs.cache
+C:\teju\wiprotraining\day6\obj\Debug\net9.0\day6.sourcelink.json
+C:\teju\wiprotraining\day6\obj\Debug\net9.0\day6.dll
+C:\teju\wiprotraining\day6\obj\Debug\net9.0\refint\day6.dll
+C:\teju\wiprotraining\day6\obj\Debug\net9.0\day6.pdb
+C:\teju\wiprotraining\day6\obj\Debug\net9.0\day6.genruntimeconfig.cache
+C:\teju\wiprotraining\day6\obj\Debug\net9.0\ref\day6.dll
